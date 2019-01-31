@@ -9,5 +9,5 @@ Usage
 ::
 
     $ pip install cookiecutter
-    $ cookiecutter gh:alikins/cookiecutter-mazer-collection
+    $ cookiecutter gh:alikins/cookiecutter-ansible-collection
 
